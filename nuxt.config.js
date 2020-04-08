@@ -12,7 +12,7 @@ module.exports = {
       {
         rel: 'stylesheet',
         href:
-          'https://fonts.googleapis.com/css?family=Lato:400|Playball&display=swap',
+          'https://fonts.googleapis.com/css?family=Lato:400,700|Playball&display=swap',
       },
     ],
   },

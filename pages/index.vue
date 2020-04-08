@@ -2,7 +2,8 @@
   <div class="content">
     <Logo />
     <h1>Veuve Michel</h1>
-    <p>Site en construction, mise en ligne prévue pour juin 2020</p>
+    <p>IGP Coteaux du Salagou<br />34800 Octon, Hérault, Languedoc</p>
+    <p>Site en construction<br />Mise en ligne juin 2020</p>
   </div>
 </template>
 
@@ -31,6 +32,11 @@ export default {
   }
   p {
     line-height: 1.5em;
+    color: $colorSoil;
+    &:last-child {
+      font-size: 1.2em;
+      font-weight: 700;
+    }
   }
 }
 </style>
